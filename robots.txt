@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /
+Disallow: /cgi-bin/
+Disallow: /admin/
+Disallow: /.
+Disallow: /BOTS/
+Disallow: /security/
+Disallow: /upload/
+Disallow: /admin/
